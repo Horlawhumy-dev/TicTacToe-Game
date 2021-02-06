@@ -1,2 +1,2 @@
 # TicTacToe-Game
-A game created with over 50% Vanilla JavaScript.
+A game created with over 90% Vanilla JavaScript.
